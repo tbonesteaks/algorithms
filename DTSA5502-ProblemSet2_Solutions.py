@@ -8,7 +8,7 @@
 # Recall that a graph is undirected if for every edge $(u,v)$ in the graph from $u$ to $v$ there is also the edge in the reverse direction  $(v,u)$ from $v$ to $u$.
 
 # ## 1A 
-# 
+#  
 # Run through DFS for the example graph below.
 # 
 # ![image.png](attachment:image.png)

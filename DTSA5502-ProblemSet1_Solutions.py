@@ -6,7 +6,7 @@
 # We will begin by implementing binary search tree data structure in python. Please read the descriptions of functions carefully and complete them according to description. You should be familiar with objects in python. There are many tutorials online that you can use for this : https://www.tutorialspoint.com/python/python_classes_objects.htm
 
 # In[11]:
-
+ 
 
 class Node: 
     # Implement a node of the binary search tree.

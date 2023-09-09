@@ -6,7 +6,7 @@
 # We will now program an undirected graph using the adjacency list representation in Python along with some utility functions including a depth first search algorithm over undirected graphs. 
 # 
 # Recall that a graph is undirected if for every edge $(u,v)$ in the graph from $u$ to $v$ there is also the edge in the reverse direction  $(v,u)$ from $v$ to $u$.
-
+ 
 # ## 1A 
 #  
 # Run through DFS for the example graph below.
